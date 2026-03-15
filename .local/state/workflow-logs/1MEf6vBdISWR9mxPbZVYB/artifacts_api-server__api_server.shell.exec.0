@@ -1,0 +1,8 @@
+
+> @workspace/api-server@0.0.0 dev /home/runner/workspace/artifacts/api-server
+> NODE_ENV=development tsx ./src/index.ts
+
+Server listening on port 8080
+Connected: aChBSvxA1l_gr4dUAAAB
+Connected: lxdN2U5Qk_LG_DU3AAAD
+Disconnected: lxdN2U5Qk_LG_DU3AAAD
